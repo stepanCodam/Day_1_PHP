@@ -36,7 +36,7 @@
   ?>
    <div class ="container mt-5">
        <div class = "row">
-   <h1 class="text-center mt-3"> Today we learn dota 2 atribute gains per level </h1>
+   <h1 class="text-center mt-3 text-warning"> Today we learn dota 2 offlane heroes atribute gains per level </h1>
        
         <div class="card" style="width: 18rem;">
         <img src= "https://static.gosugamers.net/61/e9/5e/427c51cd221aff391383b3e3fc52468d13facfa1951d11fe0f477ba6f3.png?w=840" class="card-img-top" alt="...">
